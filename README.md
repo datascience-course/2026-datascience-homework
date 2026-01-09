@@ -17,7 +17,7 @@ This will create a folder `2026-datascience-homework` on your computer, with the
 
 ## Updating
 
-As we release new homeworks, or if we discover mistakes and update an already released homework description,  you'll have to update your repository. You can do this by changing into the `2025-datascience-homework` directory and executing:
+As we release new homeworks, or if we discover mistakes and update an already released homework description,  you'll have to update your repository. You can do this by changing into the `2026-datascience-homework` directory and executing:
 
 ```bash
 git pull
